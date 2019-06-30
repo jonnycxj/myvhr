@@ -1,5 +1,5 @@
 package com.jgds.hrserver.config;
-
+ggggggggggggggggggggggggggggggggg
 import com.jgds.hrserver.service.impl.HrServiceImple;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
