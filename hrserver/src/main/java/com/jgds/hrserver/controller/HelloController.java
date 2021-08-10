@@ -15,4 +15,9 @@ public class HelloController {
         return "hello" +environment.getProperty("aa");
     }
 
+    @GetMapping("/java")
+    public String test(){
+        return "JAVA";
+    }
+
 }
